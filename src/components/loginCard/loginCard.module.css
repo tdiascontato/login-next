@@ -1,0 +1,26 @@
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    height: max-content;
+    width: 50vw;
+    padding: 1rem;
+    border-radius: 3rem;
+
+    background-color: #b42f26;
+    color: #F5A431;
+}
+.title{
+    font-size: x-large;
+    font-weight: bolder;
+    cursor: default;
+    text-align: center;
+    color: white;
+}
+.children{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}

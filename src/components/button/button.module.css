@@ -1,0 +1,17 @@
+.button {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border: 0;
+    cursor: pointer;
+    background-color: #F5A431;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 0.5rem;
+    transition: 1s ease;
+}
+.button:hover{
+    transition: 1s ease;
+    background-color: rgb(61, 61, 61);
+    color: #f5A431;
+}
